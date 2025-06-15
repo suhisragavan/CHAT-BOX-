@@ -35,3 +35,7 @@ Other Tools:
 MongoDB / Firebase (optional, for storing chat history or user data)
 
 dotenv (for environment variable management)
+
+#output
+![image](https://github.com/user-attachments/assets/8ab0b27d-8095-45c1-9ece-70dfe7bc3e31)
+
